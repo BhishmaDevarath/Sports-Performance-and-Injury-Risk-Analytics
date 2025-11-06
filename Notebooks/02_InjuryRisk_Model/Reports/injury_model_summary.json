@@ -1,0 +1,7 @@
+{
+  "Model": "LogisticRegression",
+  "ROC_AUC": 0.8105946522172294,
+  "PR_AUC": 0.007025288831355515,
+  "FeatureCount": 7,
+  "TargetRate": 0.0006609195402298851
+}

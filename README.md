@@ -48,7 +48,7 @@ The solution applies **machine learning** and **linear programming** to identify
 ---
 
 ## ⚙️ Tech Stack
-- **Language:** Python 3.12  
+- **Language:** Python 3.13  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, pulp, joblib  
 - **Database:** Microsoft SQL Server  
 - **Visualization:** Power BI Desktop  
